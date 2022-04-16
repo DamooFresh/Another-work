@@ -1,0 +1,41 @@
+body{
+  background: #C3DBD9;
+}
+
+img{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+table{
+  border-spacing: 20px;
+}
+
+hr{
+  width: 10%;
+  border-style: none;
+  border-top-style: dotted;
+  border-top-width: 5px;
+  border-color: rgb(180, 179, 179);
+}
+
+h1,h3{
+  color: #66bfbf;
+}
+
+
+
+
+
+
+
+/* hr{
+    
+    width: 20%;
+  border-style: none;
+  border-top-style:dotted;
+  border-top-width: 10px;
+  border-color: green;
+   
+} */
